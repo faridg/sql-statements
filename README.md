@@ -1,1 +1,1 @@
-# List of some of the most common SQL statements
+# List of common SQL statements
